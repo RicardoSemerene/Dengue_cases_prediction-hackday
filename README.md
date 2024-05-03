@@ -66,7 +66,7 @@ Para este projeto, os dados foram obtidos de acordo com um banco de dados. Após
 
 Durante a análise exploratória de dados, foram gerados insights, através da validação das hipóteses. Insights são informações novas, ou que contrapõem crenças que o time de negócios, ou neste caso, a opinião pública, têm em mente. 
 
-#### H1. Meses do verão devem ter mais casos.
+### H1. Meses do verão devem ter mais casos.
 
 **VERDADEIRA**. Meses do verão realmente tem mais casos.
 
@@ -79,7 +79,7 @@ Durante a análise exploratória de dados, foram gerados insights, através da v
 - Existirá um aumento nos custos hospitalares e locais de atendimento.
 - Nesses meses, as campanhas de combate ao mosquito devem ser intensificadas e os cuidados com locais que se acumulam águas devem ser ampliados.
 
-#### H2. Quanto maior a conscientização da população deve ter menos casos.
+### H2. Quanto maior a conscientização da população deve ter menos casos.
 
 **FALSA**. Em qualquer nível de conscientização, a média de casos registrados é muito próxima.
 
@@ -89,7 +89,7 @@ Durante a análise exploratória de dados, foram gerados insights, através da v
 - As campanhas estão sendo feitas de forma tardia ou apenas nos meses com mais casos, impedindo a criação de uma cultura na atitude das pessoas que realmente impeça criadouros de mosquitos.
 - Mesmo que a população esteja consciente em relação às medidas de combate ao mosquito, pode ser que os desafios na implementação dos cuidados sejam maiores.
 
-#### H3. Menor presença de mosquitos deve resultar em menos chances de casos.
+### H3. Menor presença de mosquitos deve resultar em menos chances de casos.
 
 **VERDADEIRA**. Os dados mostram que quanto menor a presença de mosquitos, menos casos são registrados
 
@@ -99,7 +99,7 @@ Durante a análise exploratória de dados, foram gerados insights, através da v
 - Locais abandonados devem ter um tratamento diferenciado para que o trabalho de prevenção não seja prejudicado por estes locais.
 - Para a diminuição dos mosquitos transmissores, podem ser tomadas medidas como maior uso de repelentes, inseticidas, telas de proteção, tentar eliminar o máximo de criadouros de água, entre outros cuidados.
 
-#### H4. Dias menos úmidos devem ter menos casos
+### H4. Dias menos úmidos devem ter menos casos
 
 **VERDADEIRA**. Menos de 1% dos casos ocorre quando a umidade está abaixo de 50% e mais de 82% dos casos ocorrem quando a umidade está acima de 65%
 
